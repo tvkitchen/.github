@@ -10,15 +10,15 @@ Please submit changes via pull request, even if you have direct commit access to
 
 As you work on your branch, try to test it locally to ensure that it still builds and deploys properly, and that you haven't introduced new accessibility bugs. See `docs/TESTING.md` for more instructions.
 
-Generally, the more controversial, complex or large a change, the more opportunity people should have to comment on it.  That means it should garner more comments/approvals, or it means it should sit longer before being merged. You can talk with us about a change you'd like to make before or while you work on it; see [the participation section of the README](README.md#participating). We don't have hard rules about such things, and documentation changes usually don't need to sit as long as functional changes, but figure a business day or two for an average patch to get discussed.
+Generally, the more controversial, complex or large a change, the more opportunity people should have to comment on it.  That means it should garner more comments/approvals, or it means it should sit longer before being merged. You can talk with us about a change you'd like to make before or while you work on it; see [the participation section of the README](https://github.com/tvkitchen/tv-kitchen/blob/master/README.md#participating). We don't have hard rules about such things, and documentation changes usually don't need to sit as long as functional changes, but figure a business day or two for an average patch to get discussed.
 
 As to when to merge, that's a judgment call.  Usually once an "approved" review goes through, and there aren't any more changes requested, then the author of the PR will merge it (if they have access to push to master).  Generally, wait to merge until the conversation around a change has concluded.  If you're unsure, ask!  "Is this ready to merge?" is often a useful next step in the conversation.
 
-If your PR fixes a bug or adds a feature, please write a test to go with the change (see [TESTING.md](docs/TESTING.md) for details on our testing framework).  If the change involves libraries or would be difficult to test, please use a Given-When-Then description or describe in your PR message how reviewers should test that your change works as expected.
+If your PR fixes a bug or adds a feature, please write a test to go with the change (see `docs/TESTING.md` for details on our testing framework).  If the change involves libraries or would be difficult to test, please use a Given-When-Then description or describe in your PR message how reviewers should test that your change works as expected.
 
 ### Document as you go
 
-If you introduce a new framework or dependency, add the necessary information to [INSTALL.md](docs/INSTALL.md) and the other documentation.
+If you introduce a new framework or dependency, add the necessary information to `docs/INSTALL.md` and the other documentation.
 
 ### Configurations
 
@@ -130,7 +130,7 @@ If you paired with someone on your change, or if you are incorporating the work 
 
 This project uses the [editorconfig framework](https://editorconfig.org/) and a linter to maintain rules around whitespace for various file types.  If you are introducing a new file type please be sure to also add a separate commit to your branch which populates the editorconfig appropriately.
 
-Please uses spaces, never tabs, and avoid trailing whitespaces.  The file [.editorconfig](.editorconfig), in the repository's root directory, encodes these formatting conventions in a way that most text editors can read.
+Please uses spaces, never tabs, and avoid trailing whitespaces.  The file `.editorconfig`, in the repository's root directory, encodes these formatting conventions in a way that most text editors can read.
 
 If committed code makes it through and does not conform to these standards.  When you find yourself about to make changes to such code, please first make a whitespace-only commit to regularize the indentation, and then make a separate commit with your code changes.
 
