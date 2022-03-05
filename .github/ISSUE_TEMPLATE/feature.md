@@ -1,23 +1,16 @@
 ---
-name: "\U0001F4A1 Feature Request"
-about: "I have a suggestion (and may want to implement it)!"
+name: '\U0001F4A1 Feature request'
+about: 'I have an idea for something new!'
 title: ''
-labels: 'enhancement'
+labels: 'feature'
 assignees: ''
 
 ---
 
-## Feature Request
+**Feature description**
 
-#### Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I have an issue when [...]
+Please describe the feature you would like to see, and why you would like to see it.
 
-#### Describe the solution you'd like
-A clear and concise description of what you want to happen. Add any considered drawbacks.
+**Ideal deadline**
 
-#### Describe alternatives you've considered
-A clear and concise description of any alternative solutions or features you've considered.
-
-#### Teachability, Documentation, Adoption, Migration Strategy
-If you can, explain how users will be able to use this and possibly write out a version the docs.
-Maybe a screenshot or design?
+Date when you would like to see this accomplished, along with additional context for the date.

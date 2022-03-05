@@ -1,27 +1,25 @@
 ---
-name: "\U0001F41B Bug"
-about: "Something isn't right."
+name: '\U0001F41B Bug report'
+about: 'Something is broken.'
 title: ''
 labels: 'bug'
 assignees: ''
 
 ---
 
-## Bug
-#### Current Behavior
-A clear and concise description of what is happening
+**Describe the bug**
 
-#### Input
-Code, command line, or other relevant input / steps to reproduce the issue.
+A clear and concise description of what is wrong.
 
-```
-```
+**To reproduce...**
 
-#### Expected Behavior
-A clear and concise description of what you expect to happen.
+Steps to reproduce the issue:
 
-#### Possible Solutions
-Any links or ideas that you've already identified related to solving this bug.
+1. ...
+2. See error
 
-#### Related Issues
-A list of related issues
+**Expected behavior**
+
+A clear and concise description of what you expected to happen.
+
+**Additional context**
