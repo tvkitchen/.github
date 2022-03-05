@@ -1,9 +1,9 @@
 ---
-name: '\U0001F4A1 Feature request'
-about: 'I have an idea for something new!'
-title: ''
-labels: 'feature'
-assignees: ''
+name: "\U0001F4A1 Feature request"
+about: "I have an idea for something new!"
+title: ""
+labels: "feature"
+assignees: ""
 
 ---
 

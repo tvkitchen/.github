@@ -1,6 +1,6 @@
 ---
-name: '\U0001F41B Bug report'
-about: 'Something is broken.'
+name: "\U0001F41B Bug report"
+about: "Something is broken."
 title: ''
 labels: 'bug'
 assignees: ''
