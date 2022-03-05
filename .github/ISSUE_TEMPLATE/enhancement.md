@@ -1,9 +1,9 @@
 ---
-name: '\U00002692 Enhancement request'
-about: 'I'd like a change to something that currently works.'
-title: ''
-labels: 'enhancement'
-assignees: ''
+name: "\U00002692 Enhancement request"
+about: "I'd like a change to something that currently works."
+title: ""
+labels: "enhancement"
+assignees: ""
 
 ---
 
